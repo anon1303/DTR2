@@ -1,6 +1,6 @@
 ad3==2.1
 alembic==0.9.8
-Babel==2.5.1
+Babel==2.9.1
 blinker==1.4
 cachetools==2.0.1
 certifi==2018.1.18
