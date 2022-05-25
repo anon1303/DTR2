@@ -63,7 +63,7 @@ public==0.0.65
 pyasn1==0.4.2
 pyasn1-modules==0.2.1
 pycparser==2.18
-PyJWT==1.6.1
+PyJWT==2.4.0
 PyMySQL==0.7.11
 python-dateutil==2.6.1
 python-editor==1.0.3
